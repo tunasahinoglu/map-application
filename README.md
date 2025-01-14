@@ -18,7 +18,7 @@ The Sample Map Application is a web-designed application featuring an interactiv
 #### Proje Genel Bakış
 Harita Uygulaması, işaretçilerle dolu interaktif bir harita sunan web tabanlı bir platformdur. Kullanıcılar, popüler lokasyonlardan ziyaret edilmesi gereken noktalara kadar birçok yeri keşfedebilir.
 
-#### Özellikler
+#### Özellikler
 - **İnteraktif Harita:** Ziyaret edilebilecek birçok önemli yerin işaretlendiği gömülü bir harita sunar.
 - **İşaretçiler:** Harita üzerinde belirli noktalara işaret koyarak, öne çıkan mekanları ve önerilen durakları vurgular.
 - **Yakınlaşma & Odaklanma:** Bir işaretçiye tıklandığında, harita otomatik olarak o bölgeye yaklaşır. Boş bir alana ya da ana ekran düğmesine dokunarak da başlangıç konumuna kolayca geri dönülebilir.

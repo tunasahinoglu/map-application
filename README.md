@@ -26,6 +26,10 @@ Harita Uygulaması, işaretçilerle dolu interaktif bir harita sunan web tabanl�
 - **Yakınlaşma & Odaklanma:** Bir işaretçiye tıklandığında, harita otomatik olarak o bölgeye yaklaşır. Boş bir alana ya da ana ekran düğmesine dokunarak da başlangıç konumuna kolayca geri dönülebilir.
 - **Bilgi Gösterimi:** Her işaretçi, ilgili mekanın neden önemli olduğu veya neden ziyaret edilmesi gerektiği gibi ekstra bilgiler sunar, böylece kullanıcılar mekan hakkında detaylı bilgi sahibi olabilir.
 
+<img width="1503" alt="1" src="https://github.com/user-attachments/assets/5ad6f35c-f8c8-4513-abab-15664dd00571" />
+
+<img width="1512" alt="2" src="https://github.com/user-attachments/assets/ad021291-ef0a-4c82-9721-ae2038a0a9a4" />
+
 
 
 
